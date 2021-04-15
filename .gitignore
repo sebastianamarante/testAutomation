@@ -1,0 +1,10 @@
+screenshots/
+allure-results/
+allure-report/
+node_modules/
+typeScript/
+reports/
+.vscode
+*.log
+.DS_Store
+package-lock.json
